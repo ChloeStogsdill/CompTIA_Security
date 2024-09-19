@@ -1,1 +1,1 @@
-# CompTIA_Security
+# CompTIA Security+ Exam Guide
