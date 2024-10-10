@@ -2,7 +2,7 @@
 ### Chloe Stogsdill & Nicole Chbeir
 
 #### Description & Purpose: 
-This repository is designed to help students prepare for the CompTIA Security+ certification exam. It contains study materials, including guides, acronym references, practice homeworks, and slideshows.
+This repository is designed to help students prepare for the CompTIA Security+ certification exam. It contains study materials including guides, acronym references, practice homeworks, and slideshows.
 
 #### Recommended Resources:
 - CompTIA Security+ Exam SY0-701 Objectives: [Objectives](https://certblaster.com/wp-content/uploads/2023/11/CompTIA-Security-SY0-701-Exam-Objectives-1.pdf)
